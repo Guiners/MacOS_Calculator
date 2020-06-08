@@ -1,14 +1,5 @@
 from tkinter import *
-'''
-first usage not working - i think it is working
-Add option to change current operation - done
-If there is float var is error error - done
-If want to do use again calculator u need to transform int to list and it should work - done
-Change something and print numbers in string not list - done
-Approximation work not property - done
 
-
-'''
 
 # declaring variables
 screen = Tk()
